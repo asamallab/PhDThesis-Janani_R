@@ -2,5 +2,5 @@
 #### This repository includes the supplementary information associated with PhD thesis chapters.
 
 ##### Author: Janani R
-##### Thesis title: Compilation, curation and network-based exploration of the chemical exposome
+##### Thesis title: Exposome and health: Characterization and network-based exploration of diverse environmental chemical spaces
 
