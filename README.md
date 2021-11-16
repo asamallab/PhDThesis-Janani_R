@@ -1,6 +1,6 @@
-## Repository: PhDThesis-Janani_R
-#### This repository includes the supplementary information associated with PhD thesis chapters.
+#### This repository contains the supplementary information associated with PhD thesis titled:
+##### Exposome and health: Characterization and network-based exploration of diverse environmental chemical spaces
+##### authored by: 
+##### Janani Ravichandran
 
-##### Author: Janani R
-##### Thesis title: Exposome and health: Characterization and network-based exploration of diverse environmental chemical spaces
 
