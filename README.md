@@ -1,4 +1,4 @@
-<h2> This repository contains the supplementary information associated with PhD thesis titled: </h2>
+<h2> This repository contains the supplementary information and figures associated with PhD thesis titled: </h2>
 <h2 align="center"> Exposome and health: Characterization and network-based exploration of diverse environmental chemical spaces </h2>
 <h2 align="center"> Author:</h2> 
 <h2 align="center"> Janani Ravichandran </h2>
